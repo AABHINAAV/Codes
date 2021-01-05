@@ -1,5 +1,5 @@
 // Problem Link - https://atcoder.jp/contests/dp/tasks/dp_a
-/* By Sanket Singh */
+/* By Arpit */
 #include<bits/stdc++.h>
 //#include<ext/pb_ds/assoc_container.hpp>
 //#include<ext/pb_ds/tree_policy.hpp>

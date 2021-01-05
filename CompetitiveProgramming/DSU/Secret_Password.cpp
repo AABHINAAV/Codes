@@ -1,5 +1,5 @@
 // Problem Link - https://codeforces.com/problemset/problem/1263/D
-/* By Sanket Singh */
+/* By Arpit */
 #include<bits/stdc++.h>
 //#include<ext/pb_ds/assoc_container.hpp>
 //#include<ext/pb_ds/tree_policy.hpp>

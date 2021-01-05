@@ -1,5 +1,5 @@
 
-/* By Sanket Singh */
+/* By Arpit */
 //https://codeforces.com/contest/276/problem/C
 // Topic: Difference Arrays
 #include<bits/stdc++.h>

@@ -461,13 +461,8 @@ void file_i_o()
 	    freopen("output.txt", "w", stdout);
 	#endif
 }
-void solve(){
-	int n;
-	cin>>n;
-	vector<int> a(n);
-	F(i,n) cin>>a[i];
-	cout<<1;
-	}
+void solve()  {
+    }
 int main(int argc, char const *argv[]) {
 	clock_t begin = clock();
 	file_i_o();

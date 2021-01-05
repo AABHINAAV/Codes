@@ -1,5 +1,5 @@
 /*
-By Sanket Singh
+By Arpit
 */
 #include <bits/stdc++.h>
 #define ll long long int
